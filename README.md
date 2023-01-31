@@ -13,7 +13,9 @@ user they are (user, admin, security) and address.
 
 
 1) LOGIN/SIGNUP
-![image](https://user-images.githubusercontent.com/75297454/215801521-ac1b4135-8956-49e8-be82-121590689abe.png)  ![image](https://user-images.githubusercontent.com/75297454/215801551-831cfe03-681b-42b3-99da-6a6e0384e137.png)
+
+![image](https://user-images.githubusercontent.com/75297454/215801521-ac1b4135-8956-49e8-be82-121590689abe.png)  
+![image](https://user-images.githubusercontent.com/75297454/215801551-831cfe03-681b-42b3-99da-6a6e0384e137.png)
 
 2) NOTICE BOARD
 This feature will work differently for different types of users. If the user is an administrator, they will be able to enter what they want 
