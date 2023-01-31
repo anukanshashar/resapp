@@ -9,7 +9,8 @@ residents can view them, a social directory screen wherein all the registered us
 user they are (user, admin, security) and address.
 
 <img width="218" alt="image" src="https://user-images.githubusercontent.com/75297454/215801368-65defe0e-eaa1-48dc-a7a6-173f643231b0.png">
-![image](https://user-images.githubusercontent.com/75297454/215802254-855ee634-61a2-4562-a43f-a88cbea430f3.png)
+![image](https://user-images.githubusercontent.com/75297454/215803242-e120b2c4-4f86-4805-9010-e65c79bfd9be.png)
+
 
 
 1) LOGIN/SIGNUP
